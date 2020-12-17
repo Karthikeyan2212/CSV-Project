@@ -5,5 +5,5 @@ Steps:<br>
 2.then upload csv file<br>
 3.it will validate and whether it is csv file or not then it will save it in the database.<br>
 4.if we want view records then click VIEW RECORDS to view.<br>
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Karthikeyan2212/CSV-Project/blob/main/output/out1.PNG?raw=true)
 
