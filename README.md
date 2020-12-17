@@ -1,4 +1,4 @@
-# CSV-Project-Grootan Technologies
+# CSV-Project-Grootan Technologies coding assignment
 this project is for uploading the csv files and save it in the database
 Steps:<br>
 1.connect the sql code with database<br>
