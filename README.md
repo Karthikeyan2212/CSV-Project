@@ -1,4 +1,4 @@
-# CSV-Project
+# CSV-Project-Grootan Technologies
 this project is for uploading the csv files and save it in the database
 Steps:<br>
 1.connect with database<br>
